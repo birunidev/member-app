@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/member-app/static/css/main.1cfdd782.chunk.css",
+    "main.js": "/member-app/static/js/main.dde8dc84.chunk.js",
+    "main.js.map": "/member-app/static/js/main.dde8dc84.chunk.js.map",
+    "runtime-main.js": "/member-app/static/js/runtime-main.07f5f925.js",
+    "runtime-main.js.map": "/member-app/static/js/runtime-main.07f5f925.js.map",
+    "static/js/2.f9552265.chunk.js": "/member-app/static/js/2.f9552265.chunk.js",
+    "static/js/2.f9552265.chunk.js.map": "/member-app/static/js/2.f9552265.chunk.js.map",
+    "index.html": "/member-app/index.html",
+    "precache-manifest.9533e6e9bda30965736210e666532b29.js": "/member-app/precache-manifest.9533e6e9bda30965736210e666532b29.js",
+    "service-worker.js": "/member-app/service-worker.js",
+    "static/css/main.1cfdd782.chunk.css.map": "/member-app/static/css/main.1cfdd782.chunk.css.map",
+    "static/js/2.f9552265.chunk.js.LICENSE": "/member-app/static/js/2.f9552265.chunk.js.LICENSE",
+    "static/media/back.svg": "/member-app/static/media/back.6a4886d1.svg",
+    "static/media/whatsapp.svg": "/member-app/static/media/whatsapp.1000c9e2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07f5f925.js",
+    "static/js/2.f9552265.chunk.js",
+    "static/css/main.1cfdd782.chunk.css",
+    "static/js/main.dde8dc84.chunk.js"
+  ]
+}
